@@ -24,7 +24,7 @@ This is the app that suits your need.
 ## Change Temperature Unit (°C,°F,°K)
 - Open ```System Preferences``` App. 
 - Click onto ```Language and Regions``` preferences pane.
-- Choose your preferred temperature unit from the ```Temperature``` drop-down list. 
+- Choose your temperature unit from the ```Temperature``` drop-down list. 
 
 ## Credits
 - Thanks to [aisk](https://github.com/aisk) for the source code of [MySensor](https://github.com/aisk/MySensors) app.
