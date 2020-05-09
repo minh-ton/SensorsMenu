@@ -1,4 +1,4 @@
-<img align="right" width=25% src="https://github.com/Minh-Ton/SensorsMenu/blob/master/docs/Screenshots/SensorsMenu.png">
+<img align="right" width=20% src="https://github.com/Minh-Ton/SensorsMenu/blob/master/docs/Screenshots/SensorsMenu.png">
 
 # SensorsMenu
 
