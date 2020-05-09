@@ -7,7 +7,9 @@ This is the app that suits your need.
 
 [<img width=20% src="https://github.com/Minh-Ton/SensorsMenu/raw/master/docs/Screenshots/download.png">](https://github.com/Minh-Ton/SensorsMenu/releases)
 
+<p>
 <img align="right" width=35% src="https://github.com/Minh-Ton/SensorsMenu/raw/master/docs/Screenshots/Screenshot1.png">
+</p>
 
 ## Requirements
 - macOS 10.12 Sierra or later. 
