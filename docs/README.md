@@ -5,7 +5,7 @@
 Want a eye-catching and light-weight Menu Bar Application to monitor all of your Mac's sensors, including Temperatures, Fan and Battery?
 This is the app that suits your need. 
 
-[<img width=20% src="https://github.com/Minh-Ton/SensorsMenu/raw/master/docs/Screenshots/download.png">](https://github.com/Minh-Ton/SensorsMenu/releases)
+[<img width=20% src="https://github.com/Minh-Ton/SensorsMenu/raw/master/docs/Screenshots/download.png">](https://github.com/fordApps/SensorsMenu/releases/latest)
 
 <p>
 <img align="right" width=35% src="https://github.com/Minh-Ton/SensorsMenu/raw/master/docs/Screenshots/Screenshot1.png">
