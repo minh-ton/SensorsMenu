@@ -1,0 +1,11 @@
+framework module SystemKit {
+  umbrella header "SystemKit.h"
+
+  export *
+  module * { export * }
+}
+
+module SystemKit.Swift {
+    header "SystemKit-Swift.h"
+    requires objc
+}

@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "b54dce368325a787327032c03e44c921"
+build_time: [1615365768, 505521000]
+inputs:
+  "/Volumes/AppleSSD/Github/SensorsMenu/SensorsMenu/AppDelegate.swift": [9223372036, 854775807]
+  "/Volumes/AppleSSD/Github/SensorsMenu/SensorsMenu/PreferencesWindow.swift": [9223372036, 854775807]
+  "/Volumes/AppleSSD/Github/SensorsMenu/SensorsMenu/SMC.swift": [9223372036, 854775807]
